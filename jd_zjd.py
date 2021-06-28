@@ -9,7 +9,6 @@ TG交流 https://t.me/topstyle996
 TG频道 https://t.me/TopStyle2021
 updateTime: 2021.6.26 20:09
 '''
-const $ = new Env('京喜工厂');
 #####
 #ck 优先读取ENV的 变量 JD_COOKIE='ck1&ck2'  再到 【JDCookies.txt】 文件内的ck 最后才到脚本内 cookies=ck
 cookies=''
